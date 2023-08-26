@@ -41,4 +41,18 @@ Cookie-based authentication is a method of user authentication used in web appli
 ### Logged In 
 ![Screenshot 2023-08-26 234125](https://github.com/amolj2003/twayam/assets/114354608/11d14885-fd81-4a45-9118-9221974d5e4d)
 
+## Step 6: 
+ ### Console Image Of  Successfull Authentication 
+ 
+![Screenshot 2023-08-27 010142](https://github.com/amolj2003/twayam/assets/114354608/8ad260d3-926a-4d0d-a02e-0eeb711c5278)
+
+### Console Image Of Cookies Generated : 
+### Before Logged IN (No cookies Present )
+
+![Screenshot 2023-08-27 010009](https://github.com/amolj2003/twayam/assets/114354608/8a08002a-c0ea-4a9c-aeb0-554f31c03325)
+
+
+### After Logged In (Cookies Present)
+
+![Screenshot 2023-08-27 010053](https://github.com/amolj2003/twayam/assets/114354608/155822a7-73a8-49d8-96d0-878ec6b7ae41)
 
