@@ -27,5 +27,7 @@ Cookie-based authentication is a method of user authentication used in web appli
    In this I have used Github key 
    [ Github -> login -> settings -> developer mode -> Oauth key -> new (then fill the inputs and generate a key]
    
-   ![Screenshot 2023-08-26 185338](https://github.com/amolj2003/twayam/assets/114354608/d781f51c-345f-4a36-a560-516405d2b472)
+   ![Screenshot 2023-08-26 185338](https://github.com/amolj2003/twayam/assets/114354608/f9148385-ecda-455a-a083-8a6288cfb5e7)
+
+
 
