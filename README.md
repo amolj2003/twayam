@@ -32,13 +32,20 @@ Cookie-based authentication is a method of user authentication used in web appli
 ## step 4 :
   ### Made Login page 
 
+## Login and Signup First Time to github ( Next Time This  will be Done by Cookies) :
+
+![Screenshot 2023-08-26 234103](https://github.com/amolj2003/twayam/assets/114354608/210f6c7f-112d-4a8b-b60e-0477beba56bb)
+
+ 
 ## Step 5 :
   ### Made Authentication Over Cookies 
 
 ### Login Before Authentication:
+
 ![Screenshot 2023-08-26 234150](https://github.com/amolj2003/twayam/assets/114354608/14aec6f0-e961-43c7-839a-0d08daf64a45)
 
 ### Logged In 
+
 ![Screenshot 2023-08-26 234125](https://github.com/amolj2003/twayam/assets/114354608/11d14885-fd81-4a45-9118-9221974d5e4d)
 
 ## Step 6: 
@@ -55,4 +62,12 @@ Cookie-based authentication is a method of user authentication used in web appli
 ### After Logged In (Cookies Present)
 
 ![Screenshot 2023-08-27 010053](https://github.com/amolj2003/twayam/assets/114354608/155822a7-73a8-49d8-96d0-878ec6b7ae41)
+
+
+### All Sessions and Pages are Running at 200 (successfully) :
+
+![Screenshot 2023-08-27 005937](https://github.com/amolj2003/twayam/assets/114354608/40901ee0-5cf9-4446-bf19-1f7b273d1275)
+
+
+
 
