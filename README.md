@@ -80,7 +80,6 @@ Cookie-based authentication is a method of user authentication used in web appli
 ## Tamagui 
 ### Faced a little Problem to Work on the Deployment Part
 ### The Authentication Is similarly used in the yarn and Next js Part of Tamagui 
-
 <br>
 
 ![Screenshot 2023-08-27 141529](https://github.com/amolj2003/twayam/assets/114354608/25572c17-ef8c-49f5-9500-bd632785048f)
